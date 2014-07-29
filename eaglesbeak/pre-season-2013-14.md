@@ -1,9 +1,11 @@
 
 Palace surprised many teams with their good run of form under Pulis and won over plenty of opposition fans and neutrals with their result especially the win over Chelsea and the comeback draw against Liverpool. But those highlights on what was a fantastic season for the Eagles will be forgotten as the new season begins. 
 
-I expect Palace to struggle, it's the cliched second season syndrome and although the team doesn't appear to be any weaker it hasn't improved enough for me it's difficult for Puncheon to replicate his goal threat and equally tough for Palace to defend so well this time round, they've earned more respect from the rest of the league so teams won't be so open to the counter-attack.
+I expect Palace to struggle, it's the cliched second season syndrome and although the team doesn't appear to be any weaker it hasn't improved enough for me, it's difficult for Puncheon to replicate his goal threat this time round, they've earned more respect from the rest of the league so teams won't be so open to the counter-attack.
 
-Campbell is an ok signing but for a championship team, I don't think he has enough goals to be a premier league striker but his work rate will make up for that shortfall in goals, but unlesss someone else can find the net regualry I do think Palace will struggle.
+I still fully expect the whole team to be well drilled defensively, difficult to break down and unlikely to get beaten heavily against any team.
+
+Campbell is an ok signing for a championship team, I don't think he has enough goals to be a premier league striker but his work rate in terms of chasing and pressing from the front will make up for that shortfall in goals, but unlesss someone else can find the net regulary I do think Palace will struggle.
 
 The Eagles picked up 8 points from 14 games against the big 7 teams last season, better than 5 of the other 13 sides competing against them It'd be reasonable to assume as mentioned earlier those bigger sides are unlikely to fall into the same trap again so Palace will need to do better against the teams around them if they want to surive and get a similar league position.
 
