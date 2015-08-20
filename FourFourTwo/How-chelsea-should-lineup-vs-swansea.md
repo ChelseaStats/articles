@@ -5,7 +5,6 @@
 We're debating the strongest line-ups for the opening day. How do you see it going? An ex-player, prominent blogger and FFT editor look at the various permutations...
 
 ### Former player: Pat Nevin (Chelsea 1983-88)
-image: http://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/inline-image/public/patnevinsxi.jpg?itok=LfTmhZmu
 
 (4-2-3-1)
 Why this line-up
@@ -17,7 +16,9 @@ Why this line-up
 "Chelsea still need defensive coverage, and I think if Jose gets John Stones from Everton, you can see the core of a very good young team that can be dominant for a long time."
 
 ### Blogger: @ChelseaStats
-image: http://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/inline-image/public/chelseastatsxi3.jpg?itok=2XOr8ZPs
+
+![Image of ChelseaStats Team](https://github.com/ChelseaStats/articles/fourfourtwo/chelseastatsxi3.jpg)
+
 
 (4-2-3-1)
 "The team picks itself really. It’s a home game, so means Cesc Fabregas dropping into the deeper midfield spot rather than as a No.10, He’s likely to move forward when we have a top-four opponent or difficult away trip and we need the security behind him.
@@ -30,12 +31,10 @@ image: http://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/puff
 "I’m fascinated by how we’ll manage the bench and fringe players. Kenedy, permit pending, looks lively; Bertrand Traore too. Will they make the first team or will they be loaned out? The likes of Juan Cuadrado - an expensive acquisition - should have settled in after a pre-season with the team. We’re almost spoilt for choice."
 
 ### FFT says
-image: http://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/inline-image/public/fftschelsea3_0.jpg?itok=O6097nOL
 
 (4-2-3-1)
 Chelsea's first XI is undoubtedly the simplest to predict. Key for Jose Mourinho is managing his squad players, having waved goodbye to excellent understudies in Filipe Luis, Petr Cech, Andre Schurrle and Mohamed Salah over the past six months. Given the state of Diego Costa's hamstrings, it's vital he galvanises Loic Remy and Radamel Falcao.
-ALSO ON FFT.COM
-image: http://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/puff-image/public/falcaoayew_0.jpg?itok=koZaZQF8
+
 
 PREVIEW Chelsea vs Swansea: Will it be Diego or Radamel leading the Blues' line?
 As last season progressed, the ever-cautious Jose Mourinho preferred an extra body alongside Nemanja Matic and Cesc Fabregas. Perhaps surprisingly, Matic was dribbled past more often per game than anyone else in the league, with Fabregas close behind. Attack is the best form of defence, however, and he should resist the temptation to continue sacrificing a creative attacking midfielder for a destroyer (Kurt Zouma) or athlete (Ramires).
