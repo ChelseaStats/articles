@@ -17,7 +17,7 @@ Why this line-up
 
 ### Blogger: @ChelseaStats
 
-![Image of ChelseaStats Team](https://github.com/ChelseaStats/articles/fourfourtwo/chelseastatsxi3.jpg)
+![Image of ChelseaStats Team](https://github.com/ChelseaStats/articles/blob/master/fourfourtwo/chelseastatsxi3.jpg)
 
 
 (4-2-3-1)
