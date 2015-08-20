@@ -24,8 +24,6 @@ Why this line-up
 "The team picks itself really. It’s a home game, so means Cesc Fabregas dropping into the deeper midfield spot rather than as a No.10, He’s likely to move forward when we have a top-four opponent or difficult away trip and we need the security behind him.
 "Falcao should be on the bench, unless Costa is injured. I’ve put Zouma in over Cahill as the latter has a broken nose and there is no point rushing him in when Zouma has proven to be a perfect understudy.
 "Thibaut Courtois will be even more first choice than he was last season (if that’s possible). Asmir Begovic will have to grab any opportunity he can to have any chance of game time in the league this season. He’ll probably be given the domestic cups, though.
-STATS ZONE
-image: http://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/puff-image/public/fft_promo_header2_33.png?itok=zFdQFzLs
 
 "We know Mourinho likes a core seven or eight who rarely change. He mentioned in pre-season the likelihood of playing two strikers more often this season. Remy playing from wide right against some of the lesser sides, where defending is less of an issue, will be interesting to see. Many forget the number of games Didier Drogba and Eidur Gudjohnsen (and latterly Andriy Shevchenko) played together.
 "I’m fascinated by how we’ll manage the bench and fringe players. Kenedy, permit pending, looks lively; Bertrand Traore too. Will they make the first team or will they be loaned out? The likes of Juan Cuadrado - an expensive acquisition - should have settled in after a pre-season with the team. We’re almost spoilt for choice."
@@ -36,7 +34,9 @@ image: http://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/puff
 Chelsea's first XI is undoubtedly the simplest to predict. Key for Jose Mourinho is managing his squad players, having waved goodbye to excellent understudies in Filipe Luis, Petr Cech, Andre Schurrle and Mohamed Salah over the past six months. Given the state of Diego Costa's hamstrings, it's vital he galvanises Loic Remy and Radamel Falcao.
 
 
-PREVIEW Chelsea vs Swansea: Will it be Diego or Radamel leading the Blues' line?
+PREVIEW 
+
+Chelsea vs Swansea: Will it be Diego or Radamel leading the Blues' line?
 As last season progressed, the ever-cautious Jose Mourinho preferred an extra body alongside Nemanja Matic and Cesc Fabregas. Perhaps surprisingly, Matic was dribbled past more often per game than anyone else in the league, with Fabregas close behind. Attack is the best form of defence, however, and he should resist the temptation to continue sacrificing a creative attacking midfielder for a destroyer (Kurt Zouma) or athlete (Ramires).
  
 Elsewhere, Juan Cuadrado should replace Willian. The Brazilian is a Mourinho favourite for his hard work, but Cuadrado isn't workshy and will also offer more creative output than Willian – six goals and four assists in two full league seasons isn't enough, regardless of his role.
